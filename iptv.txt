@@ -396,6 +396,16 @@ CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
+少儿,#genre#
+CCTV-14 少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+FZTV-4 Children 少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+优漫卡通,http://t.061899.xyz/tl/tl.php?id=ymkt
+河北少儿,http://1.94.31.214/php/hebei.php?id=sekj
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+金鹰卡通,http://101.66.198.121:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.195.51:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 港澳台,#genre#
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 凤凰卫视中文台,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
