@@ -74,9 +74,6 @@ CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://ds3622.guangyuan.site:8188/rtp/239.77.0.84:5146
-广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
-广东卫视,http://yjj888.f3322.net:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://125.125.236.31:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://221.226.51.220:50081/newlive/live/hls/37/live.m3u8
@@ -220,6 +217,9 @@ CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 广东,#genre#
+广东卫视,http://ds3622.guangyuan.site:8188/rtp/239.77.0.84:5146
+广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
+广东卫视,http://yjj888.f3322.net:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
