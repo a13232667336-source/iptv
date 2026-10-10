@@ -135,6 +135,7 @@ CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 海南卫视,http://ds3622.guangyuan.site:8188/rtp/239.253.43.35:5146
 厦门卫视,http://dassby.qqff.top:99/live/厦门卫视/index.m3u8
 厦门卫视,http://118.122.144.115:8888/newlive/live/hls/28/live.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 云南,#genre#
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
@@ -302,6 +303,7 @@ CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 海南,#genre#
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
@@ -318,6 +320,7 @@ CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 福建,#genre#
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
+福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 辽宁,#genre#
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
@@ -376,6 +379,7 @@ CCTV-14 少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙少儿,http://play1-qk.nmtv.cn/live/2318general.m3u8
 黑龙江少儿,http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 港澳台,#genre#
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 凤凰卫视中文台,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
