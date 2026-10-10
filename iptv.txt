@@ -228,8 +228,6 @@ CCTV-17 农业农村,http://marcvision.xyz:8000/rtp/238.1.78.178:7296
 嘉佳卡通,http://182.85.163.86:1234/614952364
 新动漫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 海南少儿,http://8.138.7.223/tv/hainan.php?id=sepd
 深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -254,7 +252,6 @@ CCTV-17 农业农村,http://marcvision.xyz:8000/rtp/238.1.78.178:7296
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 广东卫视,http://125.125.236.31:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8
-广东大湾区,http://222.128.55.152:9080/live/dwq.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -387,7 +384,6 @@ CCTV-17 农业农村,http://marcvision.xyz:8000/rtp/238.1.78.178:7296
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 海南,#genre#
@@ -441,8 +437,6 @@ CCTV-17 农业农村,http://marcvision.xyz:8000/rtp/238.1.78.178:7296
 嘉佳卡通,http://182.85.163.86:1234/614952364
 新动漫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 海南少儿,http://8.138.7.223/tv/hainan.php?id=sepd
 深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
